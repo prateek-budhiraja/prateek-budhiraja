@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prateek!](#) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Prateek!](#) 
 
 ### About Me 🚀
 🎓 I’m a scholar trainee at Wipro & pursuing my Masters in Computer Science & Engineering. </br>
